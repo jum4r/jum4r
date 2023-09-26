@@ -10,7 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/jum4r/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jum4r/azure-network-protocols)
 - <b>Cybersecurity Labs/Practice/Tutorials</b>
-   - [Setting up Azure Sentinel (SIEM) for Geospatial Attack Data Visualization](https://github.com/jum4r/personal-assess-lab)
+   - [SIEM Goes on a Geospatial Joyride: Mapping Attacks with Style!](https://github.com/jum4r/personal-assess-lab)
 
 <h2>🤳Connect with me:</h2>
 
